@@ -2,10 +2,9 @@
    
 ## Description
 
-```
 The Social Network API is a RESTful API that provides a backend infrastructure for a social networking platform. 
 It allows users to create accounts, connect with friends, and share their thoughts.
-```
+
 
 ## Features
 
@@ -39,7 +38,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ```
    
 ## Table of Contents
-```
+
 - [Description](#description)
 - [Features](#features)
 - [User Story](#user-story)
@@ -50,17 +49,17 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technology Stack](#technology-stack)
-```
+
 
 ## Walkthrough Video
   
 ![social-network-api](./assets/social-network-api.gif)
 
-```
+
 Walkthrough video link:
 
 **https://app.screencastify.com/manage/videos/6M7mBOoqaPqncMXG6ceW/**
-```
+
 
 ## API Endpoints
 ```
