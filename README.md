@@ -2,15 +2,18 @@
    
 ## Description
 
+```
 The Social Network API is a RESTful API that provides a backend infrastructure for a social networking platform. It allows users to create accounts, connect with friends, and share their thoughts.
+```
 
 ## Features
 
+```
 * User Management: Users can create accounts, update their information, and delete their accounts.
 * Friend Connections: Users can add friends and manage their friend list.
 * Thought Sharing: Users can post their thoughts and view thoughts shared by their friends.
 * Data Relationships: Users' thoughts and friends are linked to their respective user accounts.
-  
+  ```
 
 ## User Story
 
