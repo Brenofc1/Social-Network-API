@@ -3,7 +3,8 @@
 ## Description
 
 ```
-The Social Network API is a RESTful API that provides a backend infrastructure for a social networking platform. It allows users to create accounts, connect with friends, and share their thoughts.
+The Social Network API is a RESTful API that provides a backend infrastructure for a social networking platform. 
+It allows users to create accounts, connect with friends, and share their thoughts.
 ```
 
 ## Features
@@ -38,6 +39,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ```
    
 ## Table of Contents
+```
 - [Description](#description)
 - [Features](#features)
 - [User Story](#user-story)
@@ -48,16 +50,20 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technology Stack](#technology-stack)
+```
 
 ## Walkthrough Video
   
 ![social-network-api](./assets/social-network-api.gif)
 
+```
 Walkthrough video link:
 
 **https://app.screencastify.com/manage/videos/6M7mBOoqaPqncMXG6ceW/**
+```
 
 ## API Endpoints
+```
 The API exposes the following endpoints:
 
 GET /api/users: Retrieve a list of all users.
@@ -67,25 +73,30 @@ PUT /api/users/:id: Update a user's information.
 DELETE /api/users/:id: Delete a user by ID.
 POST /api/users/:id/friends/:friendId: Add a new friend for a user.
 DELETE /api/users/:id/friends/:friendId: Remove a friend from a user's friend list.
+```
 
 ## Installation  
-  
+```  
 `npm init`
 
 `npm install`
+```
   
 ## Usage
-  
+```  
 `npm start`
 
 With Nodemon:
 
 `npm run watch`
+```
 
 ## Technology Stack
+```
 The API is built using the following technologies:
 
 * Node.js
 * Express.js
 * MongoDB
 * Mongoose
+```
